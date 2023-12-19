@@ -1,0 +1,4 @@
+C:\Users\aluno\Desktop\Edir\Média Ponderada\obj\Debug\net7.0\Média Ponderada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Edir\Média Ponderada\obj\Debug\net7.0\Média Ponderada.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Edir\Média Ponderada\obj\Debug\net7.0\Média Ponderada.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Edir\Média Ponderada\obj\Debug\net7.0\Média Ponderada.csproj.CoreCompileInputs.cache
