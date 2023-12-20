@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Desktop\\Edir\\Média Ponderada\\MediaPonderada.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\Edir\\MediaPonderada\\MediaPonderada.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Desktop\\Edir\\Média Ponderada\\MediaPonderada.csproj": {
+    "C:\\Users\\aluno\\Desktop\\Edir\\MediaPonderada\\MediaPonderada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Edir\\Média Ponderada\\MediaPonderada.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Edir\\MediaPonderada\\MediaPonderada.csproj",
         "projectName": "MediaPonderada",
-        "projectPath": "C:\\Users\\aluno\\Desktop\\Edir\\Média Ponderada\\MediaPonderada.csproj",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\Edir\\MediaPonderada\\MediaPonderada.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Desktop\\Edir\\Média Ponderada\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\Edir\\MediaPonderada\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
